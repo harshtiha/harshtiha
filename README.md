@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshtiha sana
+- 👋 Hi, I’m @harshitha sana
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Desiging Responsive Webpages
